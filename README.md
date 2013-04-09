@@ -23,10 +23,6 @@ Install the dependencies with CocoaPods
 
     $ pod install
 
-Then patch XMLRPCConnection.m
-
-    $ cd Pods/xmlrpc; patch -p1 < ../../Patches/xmlrpc-fix-threading-issue.patch
-
 Make sure to always open the Xcode workspace instead of the project file when building the project
 
     $ open Subtilest.xcworkspace
