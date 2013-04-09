@@ -1,6 +1,6 @@
 # Subtilest - The Subtitles Finder
 
-**/!\ WORK IN PROGRESS /!\\**
+**/!\ WORK IN PROGRESS:** See the [open issues](https://github.com/romac/Subtilest/issues)
 
 ## Problem
 
