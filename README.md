@@ -4,7 +4,7 @@
 
 > How many times do you download a movie/episode and you don't have the subtitles ?
 
-# Solution
+## Solution
 
 1. Drop the movie/episode file on Subtilest's icon in the Dock, or on its main window.
 2. The subtitles will be downloaded in the same folder as the file.
